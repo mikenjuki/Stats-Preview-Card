@@ -22,7 +22,7 @@
 
     @media (min-width:1440px) {
         #me-img-bg {
-            background-image: url('./images/image-header-desktop.jpg');
+            background-image: url('../images/image-header-desktop.jpg');
             height: 100%;
         }
     }
