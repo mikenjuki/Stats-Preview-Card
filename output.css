@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
 
 /* Fonts */
 
-/* Tailwind base */
+/* Tailwind base units */
 
 /* ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com */
 
@@ -429,16 +429,16 @@ body {
 }
 
 #me-img-bg {
-  background-image: url('../images/image-header-mobile.jpg');
+  background-image: url('./images/image-header-mobile.jpg');
   height: 30vh;
   background-position: center top;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
-@media (min-width:1440px) {
+@media (min-width: 1440px) {
   #me-img-bg {
-    background-image: url('../images/image-header-desktop.jpg');
+    background-image: url('./images/image-header-desktop.jpg');
     height: 100%;
   }
 }
