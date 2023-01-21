@@ -1,7 +1,7 @@
 /* Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap");
 
-/* Tailwind base */
+/* Tailwind base units */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
