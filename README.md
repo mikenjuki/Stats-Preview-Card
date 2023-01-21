@@ -25,7 +25,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 ### Screenshot
 
 ![Desktop Design](./stats-preview-card-component-main/design/finished-design-desktop.png)
-![Mobile Design](./stats-preview-card-component-main/design/finished-design-mobile.png)
 
 ### Links
 
