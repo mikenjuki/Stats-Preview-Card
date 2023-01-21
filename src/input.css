@@ -10,5 +10,20 @@
 @layer base {
     body {
         font-family: Inter;
+        height: 100vh;
+    }
+    #me-img-bg {
+        background-image: url('../images/image-header-mobile.jpg');
+        height: 30vh;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    @media (min-width:768px) {
+        #me-img-bg {
+            background-image: url('../images/image-header-desktop.jpg');
+            height: 100%;
+        }
     }
 }
