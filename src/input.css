@@ -15,12 +15,12 @@
     #me-img-bg {
         background-image: url('../images/image-header-mobile.jpg');
         height: 30vh;
-        background-position: center;
+        background-position: center top;
         background-size: cover;
         background-repeat: no-repeat;
     }
 
-    @media (min-width:768px) {
+    @media (min-width:1440px) {
         #me-img-bg {
             background-image: url('../images/image-header-desktop.jpg');
             height: 100%;
