@@ -23,13 +23,13 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - You should be able to view the optimal layout depending on your device's screen size
 
 ### Screenshot
-
-![Desktop Design](./stats-preview-card-component-main/design/finished-design-desktop.png)
+Desktop Version
+![](./design/finished-design-desktop.png)
 
 ### Links
 
 - Solution URL: [GitHub Link](https://github.com/mikenjuki/Stats-Preview-Card)
-- Live Site URL: [Live GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [Live GitHub Page](https://mikenjuki.github.io/Stats-Preview-Card/)
 
 ## My process
 
